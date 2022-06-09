@@ -10,10 +10,10 @@ Maintained by Zent Cash Developers, overseen by Zent Cash Foundation and driven 
 ## Resources
 - Web: https://zentcashfoundation.github.io
 - Explorer: https://zentcashfoundation.github.io/zentcash-explorer
-- Wallet (CLI): https://github.com/ZentCashFoundation/Zent/tree/v1.26.2.1501
+- Wallet (CLI): https://github.com/ZentCashFoundation/Zent/releases/tag/v1.26.2.1501
 - Wallet (Gui):
-   - Zent Cash Wallet (Suggested): https://github.com/ZentCashFoundation/zentcash-wallet/tree/v3.4.9               
-   - Zent Cash Wallet Electronic: https://github.com/ZentCashFoundation/zentcash-wallet-electronic/tree/v0.3.15
+   - Zent Cash Wallet (Suggested): https://github.com/ZentCashFoundation/zentcash-wallet/releases/tag/v3.4.9               
+   - Zent Cash Wallet Electronic: https://github.com/ZentCashFoundation/zentcash-wallet-electronic/releases/tag/v0.3.15
    - Zent Cash Mobile for Android:  https://play.google.com/store/apps/details?id=cash.zent.mobileapp
 - Paper Wallet: https://zentcashfoundation.github.io/zentcash-paper-wallet
 - GitHub: https://github.com/ZentCashFoundation
