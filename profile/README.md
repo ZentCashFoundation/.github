@@ -1,12 +1,6 @@
-## Hi there 
+# Zent Cash 
+## GLOBAL DECENTRALIZED PAYMENT NETWORK FOR THE GAMING WORLD.
 
-<!--
+![image](https://github.com/ZentCashFoundation/brand/blob/master/logo/wordmark/zentcash_wordmark_color.png "Zent Cash")
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Maintained by Zent Cash Developers, overseen by Zent Cash Foundation and driven by Zent Cash Community.
