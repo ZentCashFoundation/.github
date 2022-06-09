@@ -4,3 +4,7 @@
 ![image](https://github.com/ZentCashFoundation/brand/blob/master/logo/wordmark/zentcash_wordmark_color.png "Zent Cash")
 
 Maintained by Zent Cash Developers, overseen by Zent Cash Foundation and driven by Zent Cash Community.
+
+## What's Zent Cash?
+
+## Resources
