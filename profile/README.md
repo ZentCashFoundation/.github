@@ -8,3 +8,13 @@ Maintained by Zent Cash Developers, overseen by Zent Cash Foundation and driven 
 ## What's Zent Cash?
 
 ## Resources
+- Web: 
+- GitHub: 
+- Explorer:
+- Discord: 
+- Twitter:
+- Telegram Official:
+- Medium: 
+- Reddit: 
+- Bitcoin Talk: 
+- Paperwallet:
