@@ -7,6 +7,8 @@ Maintained by Zent Cash Developers, overseen by Zent Cash Foundation and driven 
 
 ## What's Zent Cash?
 
+Zent is a useful cryptocurrency for fast, secure and anonymous payments that can be used as a global payment method. Now, the focus of the project aims to create a community related to the gaming sector that uses this currency in a shared and interconnected way with all its platforms. Use all kinds of video games, buy and sell them both in digital and physical format, register in tournaments and win prizes, and give all kinds of solutions to the world of e-sports, all with the same currency, decentralized and with instant transactions.
+
 ## Resources
 - Web: https://zentcashfoundation.github.io
 - Explorer: https://zentcashfoundation.github.io/zentcash-explorer
