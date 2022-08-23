@@ -12,7 +12,7 @@ Zent is a useful cryptocurrency for fast, secure and anonymous payments that can
 ## Resources
 - Web: https://zentcashfoundation.github.io
 - Explorer: https://zentcashfoundation.github.io/zentcash-explorer
-- Wallet (CLI): https://github.com/ZentCashFoundation/Zent/releases/tag/v1.26.2.1501
+- Wallet (CLI): https://github.com/ZentCashFoundation/Zent/releases/tag/v1.26.3
 - Wallet (Gui):
    - Zent Cash Wallet (Suggested): https://github.com/ZentCashFoundation/zentcash-wallet/releases/tag/v3.4.9               
    - Zent Cash Wallet Electronic: https://github.com/ZentCashFoundation/zentcash-wallet-electronic/releases/tag/v0.3.15
