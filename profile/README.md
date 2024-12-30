@@ -22,7 +22,7 @@ Zent is a useful cryptocurrency for fast, secure and anonymous payments that can
 - Discord: https://discord.gg/tfaUE2G
 - Facebook: https://www.facebook.com/Zent-Cash-Foundation-108069958362688
 - Twitter: https://twitter.com/ZentCash
-- Telegram: https://t.me/zentcash_eng
+- Telegram: https://t.me/ZentCashGlobal
 - Youtube: https://www.youtube.com/channel/UCRF0KXM-0UbovyGLpusYjVA?sub_confirmation=1
 - Reddit: https://www.reddit.com/r/ZentCashFoundation
 - Bitcoin Talk: https://bitcointalk.org/index.php?topic=5112797.0
